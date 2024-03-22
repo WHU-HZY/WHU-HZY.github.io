@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-![alt](CV.png)
+![alt](WHU-HZY/WHU-HZY.github.io/_pages/CV.png)
 <!--   
 Talks
 ======
@@ -24,4 +24,4 @@ Talks
   
 <!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams --> -->
+* Currently signed in to 43 different slack teams --> 
