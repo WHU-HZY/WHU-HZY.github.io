@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-![alt](WHU-HZY/WHU-HZY.github.io/_pages/CV.png)
+![alt](WHU-HZY/WHU-HZY.github.io/images/CV.png)

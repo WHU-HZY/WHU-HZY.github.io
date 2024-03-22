@@ -12,7 +12,7 @@ title                    : "Academic Home Page"
 title_separator          : "-"
 name                     : &name "Zhangyi Hu"
 description              : &description "Undergraduate student at Wuhan University. Third-year student majoring in Computer Science and Technology."
-url                      : https://whu-hzy.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://whu-hzy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WHU-HZY/whu-hzy.github.io"
 
