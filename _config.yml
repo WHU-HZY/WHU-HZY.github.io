@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "Zhangyi Hu's Academic HomePage"
+title                    : "Academic Home Page"
 title_separator          : "-"
 name                     : &name "Zhangyi Hu"
 description              : &description "Undergraduate student at Wuhan University. Third-year student majoring in Computer Science and Technology."
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Zhangyi Hu"
   pronouns         : "He/Him" 
-  bio              : "Third-year student majoring in Computer Science and Technology"
+  bio              : "Undergraduate/MARS LAB/[CS｜AI｜CV]"
   location         : "Wuhan, Hubei Province, P.R.China."
   employer         : "Wuhan University"
   uri              : # URL
