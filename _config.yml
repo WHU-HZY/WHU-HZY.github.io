@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "Zhangyi Hu"
+title                    : "Zhangyi Hu's Academic HomePage"
 title_separator          : "-"
 name                     : &name "Zhangyi Hu"
 description              : &description "Undergraduate student at Wuhan University. Third-year student majoring in Computer Science and Technology."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://whu-hzy.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "WHU-HZY/whu-hzy.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Zhangyi Hu"
+  pronouns         : "He/Him" 
+  bio              : "Third-year student majoring in Computer Science and Technology"
   location         : "Wuhan, Hubei Province, P.R.China."
   employer         : "Wuhan University"
   uri              : # URL
