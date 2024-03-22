@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-![Alt](CV.pdf)
-
+![alt](CV.png)
 <!--   
 Talks
 ======
