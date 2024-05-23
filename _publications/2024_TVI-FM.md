@@ -5,7 +5,7 @@ collection: publications
 permalink: /publications/2024_TVI-FM.md
 # excerpt: 
 date: 2023.9-2024.5
-venue: 'Submitted to NeurIPS'
+venue: ':  Submitted to NeurIPS'
 paperurl: 'http://WHU-HZY.github.io/files/2024_NIPS_HZY_TVI_FM.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
