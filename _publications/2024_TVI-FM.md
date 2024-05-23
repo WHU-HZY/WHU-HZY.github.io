@@ -2,7 +2,7 @@
 title: "Empowering Visible-Infrared Person Re-Identification
 with Foundation Models"
 collection: publications
-permalink: /publication/2024_TVI-FM.md
+permalink: /publications/
 # excerpt: 
 date: 2023.9-2024.5
 venue: 'Submitted to NeurIPS 2024'
