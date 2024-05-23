@@ -9,7 +9,7 @@ venue: ':  Submitted to NeurIPS'
 paperurl: 'http://WHU-HZY.github.io/files/2024_NIPS_HZY_TVI_FM.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-<object data="../files/overview-framework.pdf" type="application/pdf">
+<object data="../files/overview-framework.pdf" type="application/pdf" weight="400px">
     <embed src="../files/overview-framework.pdf">
         <p>This browser does not support PDFs. Please <a href="../files/overview-framework.pdf">download the PDF</a> to view.</p>
     </embed>
