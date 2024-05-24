@@ -14,9 +14,7 @@ redirect_from:
 I'm Zhangyi Hu, a Bachelor of Engineering student majoring in Computer Science and Technology at Wuhan University's School of Computer Science. Currently holding a high GPA of 3.87/4.0 with an average score of around 91/100, I'm deeply committed to my academic pursuits and have been recognized with several scholarships, including the prestigious National Scholarship.
 
 ### Education
-* Wuhan University, School of Computer Science
-* Bachelor of Engineering in Computer Science and Technology
-* September 2021 - June 2025
+Bachelor of Engineering in Computer Science and Technology, Wuhan University, School of Computer Science, September 2021 - June 2025
 
 
 ### Research Interest
