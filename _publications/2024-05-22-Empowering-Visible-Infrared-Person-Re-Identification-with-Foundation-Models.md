@@ -6,7 +6,7 @@ permalink: /publications/2024-05-22-Empowering-Visible-Infrared-Person-Re-Identi
 excerpt: 'We propose a novel text-enhanced VI-ReID framework driven by Foundation Models (TVI-FM).'
 date: '2024-05-22'
 venue: ':  Submitted to NeurIPS'
-paperurl: 'http://WHU-HZY.github.io/files/2024_NIPS_HZY_TVI_FM.pdf'
+paperurl: 'https://whu-hzy.github.io/files/2024_NIPS_HZY_TVI_FM.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 <!-- <object data="../files/overview-framework.pdf" type="application/pdf" weight="700px">
