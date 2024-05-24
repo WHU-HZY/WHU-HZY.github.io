@@ -29,6 +29,3 @@ My research primarily revolves around the application of foundation models like 
 
 **key words**: Computer Vision, Multimodal, Foundation Models, AGI, Agents
 
-
-### Contact
-Feel free to reach out via email at <a href="mailto:Hzyi01xt@163.com" style="color: #005691; text-decoration: none;">Hzyi01xt@163.com</a> or <a href="mailto:zhangyi_hu@foxmail.com" style="color: #005691; text-decoration: none;">zhangyi_hu@foxmail.com</a> or call me at (+86)17167189653 or (+86)18995677169 for collaboration or academic inquiries.
