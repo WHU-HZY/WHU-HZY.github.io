@@ -2,7 +2,7 @@
 title: "Empowering Visible-Infrared Person Re-Identification
 with Foundation Models"
 collection: publications
-permalink: /publications/2024_TVI-FM
+permalink: /publications/2024-05-22-Empowering Visible-Infrared Person Re-Identification with Foundation Models
 excerpt: 'We propose a novel text-enhanced VI-ReID framework driven by Foundation Models (TVI-FM).'
 date: '2024-05-22'
 venue: ':  Submitted to NeurIPS'
