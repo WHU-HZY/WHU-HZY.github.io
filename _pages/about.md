@@ -18,7 +18,7 @@ Bachelor of Engineering in Computer Science and Technology, Wuhan University, Sc
 
 
 ### Research Interest
-My research primarily revolves around the application of foundation models like Language Vision Models (LVM)s and Large Language Models (LLM)s in Visible-Infrared Person Re-Identification. This independent project is supervised by Prof. Mang Ye at the Multimedia Analysis and ReaSoning (MARS).
+My research primarily revolves around the application of foundation models like Language Vision Models (LVM)s and Large Language Models (LLM)s in Visible-Infrared Person Re-Identification. This independent project is supervised by Prof. Mang Ye at the Multimedia Analysis and ReaSoning (MARS) LAB.
 
 **Future Plans**: 
 * Moving forward, I am eager to delve deeper into foundational research on large models and their application in downstream tasks, with a particular focus on enhancing their capabilities. My goal is to translate my research findings into practical products, such as advanced vision systems for cameras and drones, addressing real-world needs effectively.
