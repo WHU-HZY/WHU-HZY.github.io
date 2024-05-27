@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "About Me"
+title: "Hello, Academic World!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Hello, Academic World!
-
 
 ### Self Introduction
 I'm Zhangyi Hu, a Bachelor of Engineering student majoring in Computer Science and Technology at Wuhan University's School of Computer Science. Currently holding a high GPA of 3.87/4.0 with an average score of around 91/100, I'm deeply committed to my academic pursuits and have been recognized with several scholarships, including the prestigious National Scholarship.
